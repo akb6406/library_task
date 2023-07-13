@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64af2b7e9a2c7b7fcc80fe75"
+  },
+  "name": "author2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64af2b859a2c7b7fcc80fe77"
+  },
+  "name": "author3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64af2b8c9a2c7b7fcc80fe79"
+  },
+  "name": "author4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64afc4732fdea062f754b7c2"
+  },
+  "name": "author7",
+  "__v": 0
+}]
